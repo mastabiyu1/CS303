@@ -1,9 +1,10 @@
+
 /* eslint-disable require-jsdoc */
 /* eslint-disable no-unused-vars */
 "use strict";
 
 function pow(x, n) {
-	return x**n;
+	return x ** n;
 }
 
 function add2(n1, n2) {
@@ -29,8 +30,6 @@ function add(...args) {
 	60 - 69  D
 	0 - 59   NC
 */
-
-
 function computeGrade(grades) {
 	let avg=0;
 	let=sum=0;
